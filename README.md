@@ -1,3 +1,3 @@
 # Minesweeper_Game
 
-![](Bomber.png);
+![](https://github.com/KESHAVsCODE/Minesweeper_Game/blob/main/Bomber.PNG)
